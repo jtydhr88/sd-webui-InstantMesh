@@ -1,0 +1,11 @@
+webdataset
+tensorboard
+PyMCubes
+trimesh
+rembg
+diffusers==0.20.2
+bitsandbytes
+xatlas
+plyfile
+
+git+https://github.com/NVlabs/nvdiffrast/
